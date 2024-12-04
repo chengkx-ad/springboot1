@@ -1,0 +1,6 @@
+monster:
+  id: 001
+  name: 成凯璇
+  age: 25
+  is-married: false
+  birth: 1999/04/30
